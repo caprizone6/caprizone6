@@ -39,8 +39,7 @@ I'm a passionate software engineer focused on developing innovative solutions fo
 
 ## 📊 GitHub Stats
 
-[![GitHub followers](https://img.shields.io/github/followers/caprizone6?label=Followers&style=social)](https://github.com/caprizone6)
-[![GitHub User's stars](https://img.shields.io/github/stars/caprizone6?style=social)](https://github.com/caprizone6)
+![GitHub commits](https://img.shields.io/badge/Commits-1237%2B-blue) ![GitHub Repositories](https://img.shields.io/badge/Repositories-21-green) ![GitHub Followers](https://img.shields.io/badge/Followers-84-brightgreen)
 
 ---
 
