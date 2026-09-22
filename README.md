@@ -39,9 +39,8 @@ I'm a passionate software engineer focused on developing innovative solutions fo
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caprizone6&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caprizone6&layout=compact&theme=dark)
+[![GitHub followers](https://img.shields.io/github/followers/caprizone6?label=Followers&style=social)](https://github.com/caprizone6)
+[![GitHub User's stars](https://img.shields.io/github/stars/caprizone6?style=social)](https://github.com/caprizone6)
 
 ---
 
