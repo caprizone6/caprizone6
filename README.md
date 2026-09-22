@@ -18,22 +18,22 @@ I'm a passionate software engineer focused on developing innovative solutions fo
 ## 🌟 Featured Projects
 
 ### MyGPT - Retrieval-Augmented Generation Pipeline
-**Status**: ✅ Accepted Publication (Expected within 1 month)
+**Status**: ✅ Accepted Publication (In press)
 - Local-first, privacy-focused RAG LLM pipeline
 - Pure static documentation website with dynamic components
 - [Website](https://mydatamygpt.com)
-
-### ProteinPaint - Protein Structure Visualization
-**Status**: 📚 Published
-- Interactive visualization tool for protein structures
-- Used across St. Jude for structural biology analysis
-- [St. Jude Project](https://stjude.cloud/)
 
 ### BlueSky Kinases Portal
 **Status**: 🚀 In Development
 - Multiple web applications for kinase research
 - Private institutional repository
 - Focus on visualization and data management
+
+### ProteinPaint - Protein Structure Visualization
+**Status**: 📚 Published
+- Interactive visualization tool for protein structures
+- Used across St. Jude for structural biology analysis
+- [St. Jude Project](https://stjude.cloud/)
 
 ---
 
@@ -45,11 +45,12 @@ I'm a passionate software engineer focused on developing innovative solutions fo
 
 ## 💻 Tech Stack
 
-**Languages**: Python, JavaScript, Java, Go, SQL
-**Frontend**: HTML5, CSS3, React, Vue.js
-**Backend**: Node.js, Python, Django, Flask
-**Databases**: PostgreSQL, MongoDB, SQLite
-**Tools**: Git, Docker, GitHub, Linux
+- **AI coding**: Claude Code, GitHub Copilot, Google Antigravity, Codex, OpenCode
+- **Languages**: Python, JavaScript, Java, C, C++
+- **Frontend**: HTML5, CSS3, React, Vue.js
+- **Backend**: Node.js, Python, Django, Flask
+- **Databases**: PostgreSQL, MongoDB, SQLite, Vector database
+- **Tools**: Git, Docker, GitHub, Linux, MCP
 
 ---
 
@@ -59,6 +60,7 @@ Proud contributor to **5+ St. Jude Biohackathon Projects**:
 - SJHack2022 Project6
 - KIDS24 Team5
 - KIDS25 Team15
+- KIDS26 Team20
 - And more innovative solutions...
 
 ---
